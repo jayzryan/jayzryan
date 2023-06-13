@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jayzryan
+- 👀 I’m interested in hiking, reading, coding, and working out
+- 🌱 I’m currently learning Python and JavaScript
